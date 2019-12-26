@@ -1,0 +1,47 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "cuppyID",
+        "name": "UE Stickers",
+        "publisher": "Union Española",
+        "tray_image_file" : "defaultPackImage.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "01_Cuppy_smile.png",
+            "emojis": ["☕","🙂"]
+        },
+        {
+            "image_file": "02_Cuppy_lol.png",
+            "emojis": ["😄","😀"]
+        },
+        {
+            "image_file": "03_Cuppy_rofl.png",
+            "emojis": ["😆","😂"]
+        },
+        {
+            "image_file": "04_Cuppy_sad.png",
+            "emojis": ["😃", "😍"]
+        },
+        {
+            "image_file": "05_Cuppy_cry.png",
+            "emojis": ["😭","💧"]
+        },
+        {
+            "image_file": "06_Cuppy_love.png",
+            "emojis": ["😍","♥"]
+        },
+        {
+            "image_file": "07_Cuppy_hate.png",
+            "emojis": ["💔","👎"]
+        },
+        {
+            "image_file": "08_Cuppy_lovewithmug.png",
+            "emojis": ["😍","💑"]
+        }]
+    }]
+}
